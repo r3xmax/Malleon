@@ -85,7 +85,7 @@ If a block is absent, Malleon will create it. If it already exists, Malleon will
 Malleon is designed for Windows and requires Python 3.10 or newer.
 
 ```powershell
-git clone https://github.com/r3xmax/malleon.git
+git clone https://github.com/r3xmax/Malleon.git
 cd malleon
 python3 -m pip install -e . # install Malleon as a module & dependencies (mitmproxy 10.0)
 ```
